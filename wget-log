@@ -1,0 +1,9 @@
+The name is too long, 463 chars total.
+Trying to shorten...
+New name is index.html?d=eyJvdXRsZXQiOiJyZWFkIiwidG9rZW4iOiJ0b3JvbnRvLTIzMzM4MjQiLCJhY2Nlc3MiOiJmIiwiZXhwaXJlcyI6MTY5NDE5OTQ0MiwidGhlbWUiOiJkZWZhdWx0Iiwic3luYyI6MSwicHBhcmFtIjoiV2hWcFFDalhqaDlielE3Q0xURkdfZyIsInRkYXRhIjp7IkNSSUQiOiJmOGE5NDEyZi0zMDZ.
+--2023-08-18 15:12:57--  https://ofs-8f73901148dd40018f3e8e74e39755c6.read.overdrive.com/?d=eyJvdXRsZXQiOiJyZWFkIiwidG9rZW4iOiJ0b3JvbnRvLTIzMzM4MjQiLCJhY2Nlc3MiOiJmIiwiZXhwaXJlcyI6MTY5NDE5OTQ0MiwidGhlbWUiOiJkZWZhdWx0Iiwic3luYyI6MSwicHBhcmFtIjoiV2hWcFFDalhqaDlielE3Q0xURkdfZyIsInRkYXRhIjp7IkNSSUQiOiJmOGE5NDEyZi0zMDZhLTQxOGItYWY4YS03Nzg5MWM5MWUxOGQiLCJmb3JtYXQiOiI2MTAifSwidmVyc2lvbiI6bnVsbCwidGltZSI6MTY5MjM4NTgzOSwiYnVpZCI6IjhmNzM5MDExNDhkZDQwMDE4ZjNlOGU3NGUzOTc1NWM2IiwiX2MiOiIxNjkyMzg1ODM5ODI5In0%3D--443e4a5f617aebe2903b7df524853fbec696b879
+Resolving ofs-8f73901148dd40018f3e8e74e39755c6.read.overdrive.com (ofs-8f73901148dd40018f3e8e74e39755c6.read.overdrive.com)... 3.161.213.41, 3.161.213.95, 3.161.213.53, ...
+Connecting to ofs-8f73901148dd40018f3e8e74e39755c6.read.overdrive.com (ofs-8f73901148dd40018f3e8e74e39755c6.read.overdrive.com)|3.161.213.41|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2023-08-18 15:12:59 ERROR 400: Bad Request.
+
