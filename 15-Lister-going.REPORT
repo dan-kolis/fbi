@@ -1,0 +1,10 @@
+15 Nov 2023 20:04
+
+Making lister stuff much more abstract, lots of overlap with existing code ( fine ).
+
+Work going 'ok' want to make it do quite a lot more. An approahc is like "WARF" addable in line.
+
+But needs ot be callable quite a few different ways...
+
+Document end
+
